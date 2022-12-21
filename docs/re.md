@@ -1,4 +1,4 @@
-# [正则表达式 regular expression](https://docs.python.org/3/library/re.html)
+# 正则表达式 regular expression
 
 
 ```python
