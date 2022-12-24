@@ -1,4 +1,6 @@
-# 剑指 Offer II 007. 数组中和为 0 的三个数
+# 剑指 Offer II 007.
+
+[原题](https://leetcode.cn/problems/1fGaJU/?favorite=e8X3pBZi)
 
 给你一个整数数组 `nums` ，判断是否存在三元组 `[nums[i], nums[j], nums[k]]` 满足 `i != j`、`i != k` 且 `j != k` ，同时还满足 `nums[i] + nums[j] + nums[k] == 0` 。请
 
@@ -32,7 +34,7 @@ class Solution:
         return [[k, vv, -k-vv] for k, v in max_min_dict.items() for vv in v]
 ```
 
-思路：解法1的思路比较暴力
+思路：暴力
 
 1. 没有对列表进行预处理【**即排序**】
 2. 用字典保存最大和最小来保证唯一性

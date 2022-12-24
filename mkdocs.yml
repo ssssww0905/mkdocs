@@ -14,7 +14,8 @@ nav:
       - 【Python】绘图工具: matplotlib.md
   
   - 剑指专题:
-      - 【JZ】数组中和为0的三个数: offer/II007_three_sum_zero.md
+      - 【JZ】和等于零的三个数: offer/II007_three_sum_zero.md
+      - 【JZ】和大于等于T最短子数组: offer/II008_shortest_sum_geq_target.md
 
 theme:
   language: zh 
