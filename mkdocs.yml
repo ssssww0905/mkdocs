@@ -12,6 +12,9 @@ nav:
   - python笔记:
       - 【Python】正则表达式: re.md
       - 【Python】绘图工具: matplotlib.md
+  
+  - 剑指专题:
+      - 【JZ】数组中和为0的三个数: offer/II007_three_sum_zero.md
 
 theme:
   language: zh 
