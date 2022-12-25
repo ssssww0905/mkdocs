@@ -15,6 +15,7 @@ nav:
   
   - 剑指专题:
       - 【JZ】只出现一次的数字: offer/II004_once_num.md
+      - 【JZ】排序数组中两数之和: offer/II006_two_sum_T.md
       - 【JZ】和等于零的三个数: offer/II007_three_sum_zero.md
       - 【JZ】和大于等于T最短子数组: offer/II008_shortest_sum_geq_target.md
       - 【JZ】乘积小于K的子数组: offer/II009_count_product_l_k.md

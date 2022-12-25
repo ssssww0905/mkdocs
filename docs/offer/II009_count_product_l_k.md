@@ -2,7 +2,7 @@
 
 [原题](https://leetcode.cn/problems/ZVAVXX/description/?favorite=e8X3pBZi)
 
-## 解法一【滑动窗口】
+## 解法1【滑动窗口】
 
 ```python title="滑动窗口"
 class Solution:
