@@ -20,6 +20,7 @@ nav:
       - 【JZ】和等于零的三个数: offer/II007_three_sum_zero.md
       - 【JZ】和大于等于T最短子数组: offer/II008_shortest_sum_geq_target.md
       - 【JZ】乘积小于K的子数组: offer/II009_count_product_l_k.md
+      - 【JZ】和为K的子数组: offer/II010_sub_array_sum_k.md
 
 theme:
   features:
@@ -76,4 +77,17 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+
+
+extra_javascript:
+  - js/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+
+plugins:
+  - tags
+
 
