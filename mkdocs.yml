@@ -25,6 +25,7 @@ nav:
       - 【JZ】左右子数组的和相等: offer/II012_leftsum_eq_rightsum.md
       - 【JZ】二维子矩阵的和: offer/II013_sub_matrix_sum_region.md
       - 【JZ】字符串中的变位词: offer/II014_sub_str_arrange.md
+      - 【JZ】字符串中的所有变位词: offer/II015_all_sub_str_arrange.md
 
 theme:
   features:
