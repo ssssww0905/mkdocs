@@ -22,6 +22,7 @@ nav:
       - 【JZ】乘积小于K的子数组: offer/II009_count_product_l_k.md
       - 【JZ】和为K的子数组: offer/II010_sub_array_sum_k.md
       - 【JZ】01个数相同的子数组: offer/II011_01_sub_array.md
+      - 【JZ】左右子数组的和相等: offer/II012_leftsum_eq_rightsum.md
 
 theme:
   features:
