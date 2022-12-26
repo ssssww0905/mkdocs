@@ -13,6 +13,7 @@
 
 - [【JZ II 007】数组中和为 0 的三个数](offer/II007_three_sum_zero.md) `双指针`
 
-- [【JZ II 010】和为K的子数组个数](offer/II010_sub_array_sum_k.md)`哈希` `子数组`
+- [【JZ II 010】和为K的子数组个数](offer/II010_sub_array_sum_k.md)`哈希` `前缀和`
   
-- [【JZ II 011】01个数相同的最长子数组](offer/II011_01_sub_array.md)`哈希` `子数组`
+- [【JZ II 011】01个数相同的最长子数组](offer/II011_01_sub_array.md)`哈希`  `前缀和`
+- [【JZ II 012】二维子矩阵的和](offer/II013_sub_matrix_sum_region.md) `前缀和`

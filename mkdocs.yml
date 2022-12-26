@@ -23,6 +23,7 @@ nav:
       - 【JZ】和为K的子数组: offer/II010_sub_array_sum_k.md
       - 【JZ】01个数相同的子数组: offer/II011_01_sub_array.md
       - 【JZ】左右子数组的和相等: offer/II012_leftsum_eq_rightsum.md
+      - 【JZ】二维子矩阵的和: offer/II013_sub_matrix_sum_region.md
 
 theme:
   features:
@@ -81,7 +82,8 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.arithmatex:
       generic: true
-
+  - pymdownx.tasklist:
+      clickable_checkbox: true
 
 extra_javascript:
   - js/mathjax.js
