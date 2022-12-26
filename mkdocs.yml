@@ -21,6 +21,7 @@ nav:
       - 【JZ】和大于等于T最短子数组: offer/II008_shortest_sum_geq_target.md
       - 【JZ】乘积小于K的子数组: offer/II009_count_product_l_k.md
       - 【JZ】和为K的子数组: offer/II010_sub_array_sum_k.md
+      - 【JZ】01个数相同的子数组: offer/II011_01_sub_array.md
 
 theme:
   features:
